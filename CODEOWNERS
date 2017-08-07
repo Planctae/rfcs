@@ -2,19 +2,19 @@
 CODEOWNERS @Planctae/rfc-admins @Planctae/rfc-editors
 
 # SIG breakdown of OWNERSHIP
-sig-architecture/** @Planctae/sig-architecture-approvers
+**/sig-architecture/** @Planctae/sig-architecture-approvers
 
 # SIG Network owns these
-sig-network/** @Planctae/sig-network-approvers
+**/sig-network/** @Planctae/sig-network-approvers
 
 # SIG Node owns these
-sig-node/** @Planctae/sig-node-approvers
+**/sig-node/** @Planctae/sig-node-approvers
 
 # SIG Release owns these
-sig-release/** @Planctae/sig-release-approvers
+**/sig-release/** @Planctae/sig-release-approvers
 
 # SIG Storage owns these
-sig-storage/** @Planctae/sig-storage-approvers
+**/sig-storage/** @Planctae/sig-storage-approvers
 
 # SIG Node and SIG Storage owns this
-wg-resource-management/** @Planctae/sig-node-approvers @Planctae/sig-storage-approvers
+**/wg-resource-management/** @Planctae/sig-node-approvers @Planctae/sig-storage-approvers
