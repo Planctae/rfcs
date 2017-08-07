@@ -1,7 +1,3 @@
 
 # SIG breakdown of OWNERSHIP
-sig-architecture/ @Planctae/sig-architecture-approvers
-sig-network/ @Planctae/sig-network-approvers
-sig-node/ @Planctae/sig-node-approvers
-sig-release/ @Planctae/sig-release-approvers
-sig-storage/ @Planctae/sig-storage-approvers
+*.md @Planctae/rfc-approvers
