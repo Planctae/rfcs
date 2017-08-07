@@ -17,4 +17,4 @@ sig-release/* @Planctae/sig-release-approvers
 sig-storage/* @Planctae/sig-storage-approvers
 
 # SIG Node and SIG Storage owns this
-wg-resource-management/* @Planctae/sig-node-approvers @Planctae/sig-storage-approvers
+rfcs/wg-resource-management/* @Planctae/sig-node-approvers @Planctae/sig-storage-approvers
