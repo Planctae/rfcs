@@ -2,9 +2,9 @@
 # and the RFC editorial team 
 * @rfc-approvers @rfc-editors
 
-/sig-architecture/ @sig-architecture-approvers @rfc-editors
-/sig-network/ @sig-network-approvers @rfc-editors
-/sig-node/ @sig-node-approvers @rfc-editors
-/sig-release/ @sig-release-approvers @rfc-editors
-/sig-storage/ @sig-storage-approvers @rfc-editors
-/wg-resrouce-management/ @sig-node-approvers @sig-storage-approvers @rfc-editors
+/sig-architecture/ @Planctae/sig-architecture-approvers @Planctae/rfc-editors
+/sig-network/ @Planctae/sig-network-approvers @Planctae/rfc-editors
+/sig-node/ @Planctae/sig-node-approvers @Planctae/rfc-editors
+/sig-release/ @Planctae/sig-release-approvers @Planctae/rfc-editors
+/sig-storage/ @Planctae/sig-storage-approvers @Planctae/rfc-editors
+/wg-resrouce-management/ @Planctae/sig-node-approvers @Planctae/sig-storage-approvers @Planctae/rfc-editors
