@@ -1,5 +1,10 @@
-# a test breakdown by features
-/features/ planctae-feature-requests@googlegroups.com
+# Unless otherwise specified all unsorted RFCs will be reviewed by rfc-approvers
+# and the RFC editorial team 
+* @rfc-approvers @rfc-editors
 
-# a test breakdown by bugs
-/bugs/ planctae-bugs@googlegroups.com
+/sig-architecture/ @sig-architecture-approvers @rfc-editors
+/sig-network/ @sig-network-approvers @rfc-editors
+/sig-node/ @sig-node-approvers @rfc-editors
+/sig-release/ @sig-release-approvers @rfc-editors
+/sig-storage/ @sig-storage-approvers @rfc-editors
+/wg-resrouce-management/ @sig-node-approvers @sig-storage-approvers @rfc-editors
