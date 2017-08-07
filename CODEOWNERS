@@ -1,3 +1,13 @@
+# CODEOWNERS itself (this file)
+CODEOWNERS @Planctae/rfc-admins @Planctae/rfc-editors
 
 # SIG breakdown of OWNERSHIP
-sig-node/ @Planctae/rfc-approvers
+sig-architecture/ @Planctae/sig-architecture-approvers
+sig-network/ @Planctae/sig-network-approvers
+sig-node/ @Planctae/sig-node-approvers
+sig-release/ @Planctae/sig-release-approvers
+sig-storage/ @Planctae/sig-storage-approvers
+wg-resource-management @Planctae/sig-node-approvers @Planctae/sig-storage-approvers
+
+# Catchall
+* @Planctae/rfc-admins
