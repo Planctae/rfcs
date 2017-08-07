@@ -1,5 +1,5 @@
 # CODEOWNERS itself (this file)
-CODEOWNERS @Planctae/rfc-admins @Planctae/rfc-editors
+CODEOWNERS @Planctae/rfc-admins
 
 # SIG breakdown of OWNERSHIP
 sig-architecture/* @Planctae/sig-architecture-approvers
@@ -17,4 +17,4 @@ sig-release/* @Planctae/sig-release-approvers
 sig-storage/* @Planctae/sig-storage-approvers
 
 # SIG Node and SIG Storage owns this
-rfcs/wg-resource-management/* @Planctae/sig-node-approvers @Planctae/sig-storage-approvers
+wg-resource-management/* @Planctae/sig-node-approvers @Planctae/sig-storage-approvers
